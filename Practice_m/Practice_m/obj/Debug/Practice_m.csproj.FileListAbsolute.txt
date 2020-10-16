@@ -1,0 +1,15 @@
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\bin\Debug\Practice_m.exe.config
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\bin\Debug\Practice_m.exe
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\bin\Debug\Practice_m.pdb
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.csprojAssemblyReference.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\MainWindow.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\App.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m_MarkupCompile.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m_MarkupCompile.lref
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\MainWindow.baml
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.g.resources
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.Properties.Resources.resources
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.csproj.GenerateResource.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.csproj.CoreCompileInputs.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.exe
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.pdb
