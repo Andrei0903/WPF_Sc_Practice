@@ -47,13 +47,20 @@ namespace Practice_m
         {
             if (e.ChangedButton == MouseButton.Left)
             {
-                this.WindowState = WindowState.Maximized;
+                this.WindowState =  WindowState.Maximized;
             }
             else
             {
                 this.WindowState = WindowState.Normal;
             }
             
+        }
+
+       
+        private void MainFrame_ContentRenderedf(object sender, EventArgs e)
+        {
+            MainFrame.Navigate(new Login());
+            Manager.MainFrame = MainFrame;
         }
     }
 }

@@ -13,3 +13,5 @@ C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practi
 C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.csproj.CoreCompileInputs.cache
 C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.exe
 C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Practice_m.pdb
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Login.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WPF Sc Practice\Practice_m\Practice_m\obj\Debug\Login.baml

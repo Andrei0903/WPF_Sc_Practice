@@ -45,7 +45,7 @@
                 </ListViewItem>
             </ListView> 
         </Grid>
-        <Frame Grid.Row="1" Grid.Column="1" Background="#FFC7C7C7" x:Name="MainFrame"></Frame>
+        <Frame Grid.Row="1" Grid.Column="1" Background="#FFC7C7C7" x:Name="MainFrame" NavigationUIVisibility="Hidden" ContentRendered="MainFrame_ContentRenderedf"></Frame>
     </Grid>
 
 </Window>
