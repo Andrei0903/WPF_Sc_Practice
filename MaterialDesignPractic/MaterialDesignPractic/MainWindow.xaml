@@ -1,0 +1,23 @@
+﻿<Window x:Class="MaterialDesignPractic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MaterialDesignPractic"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStyle="None">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="203*"/>
+        </Grid.RowDefinitions>
+
+        
+        <Rectangle Name="cc" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="59" Margin="0,-20,0,0" Stroke="Black" VerticalAlignment="Top" Width="792" Opacity="0.4" MouseDown="cc_MouseDown" Grid.RowSpan="2"/>
+        <Frame Grid.Row="1"  x:Name="MainFrame" NavigationUIVisibility="Hidden" ContentRendered="MainFrame_ContentRendered" >        </Frame>
+        <Button x:Name="Btnclose" Content="X"  Click="Button_Click_close" VerticalAlignment="Top" HorizontalAlignment="Right" Background="Transparent" Margin="0 2 5 0" Width="40" Padding="10"/>
+        <Button x:Name="BtnBack" Content="e"  Click="Button_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Background="Transparent" Margin="0,2,50,0" Width="40" Padding="10"/>
+        </Grid>
+    
+</Window>

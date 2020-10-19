@@ -1,0 +1,20 @@
+﻿<Page x:Class="MaterialDesignPractic.login2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MaterialDesignPractic"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="600"
+      Title="login2">
+
+    <Grid>
+        <Image Source="/img/wallpaper-4k-ultra-hd-background-image-reflection-blur-art-s.jpg" Margin="-296,-462,-300,-428" />
+        <Rectangle Fill="Black" HorizontalAlignment="Center" Height="386" Margin="143,128,133,136" Stroke="Black" VerticalAlignment="Center" Width="324" Opacity="0.6"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="134" Margin="143,128,0,0" Stroke="Black" VerticalAlignment="Top" Width="324" Opacity="0.9"/>
+        <TextBlock Text="Login" Foreground="#fff" TextAlignment="Center" FontSize="30" Width="311" Margin="143,172,146,429"/>
+        <TextBox materialDesign:HintAssist.Hint="login" Style="{StaticResource MaterialDesignFloatingHintTextBox}" HorizontalAlignment="Center" Width="400" />
+
+    </Grid>
+</Page>
